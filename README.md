@@ -5,8 +5,8 @@ An end-to-end code for SMS Classifier
 <br/>
 Dataset - https://www.kaggle.com/
 <br/>
-Technologies Used:
-<br/>
+Technologies Used, 
+    <br/>
     Programming Language: Python
     <br/>
     Natural Language Processing Libraries: NLTK
