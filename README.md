@@ -1,23 +1,3 @@
-# SMS-Spam-Classifier
-SMS Classifier is a Complete Model that can detect whether the message is "Spam" or "Not Spam"
-<br/>
-An end-to-end code for SMS Classifier
-<br/>
-Dataset - https://www.kaggle.com/
-<br/>
-Technologies Used, 
-    <br/>
-    Programming Language: Python
-    <br/>
-    Natural Language Processing Libraries: NLTK
-    <br/>
-    Machine Learning Frameworks: SciKit-Learn
-    <br/>
-    Feature Extraction: TF-IDF
-    <br/>
-    Classification Algorithms: Naive Bayes, SVM
-    <br/>
-
 # SMS Spam Classifier
 
 This project is an SMS spam classifier built using machine learning techniques. The classifier is capable of identifying whether an SMS message is spam or not.
@@ -26,12 +6,10 @@ This project is an SMS spam classifier built using machine learning techniques. 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -42,6 +20,7 @@ The SMS Spam Classifier project aims to help identify and filter out spam messag
 - Training various machine learning models
 - Evaluating model performance
 - Predicting the label of new SMS messages
+- Feature extraction using TF-IDF
 
 ## Installation
 To run the project, ensure you have Python installed. Follow the steps below to set up the environment:
@@ -82,6 +61,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 
 ## Acknowledgements
-- [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) for the SMS Spam Collection dataset.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for the SMS Spam Collection dataset.
 
 
