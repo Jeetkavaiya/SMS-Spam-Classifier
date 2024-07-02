@@ -48,7 +48,7 @@ To run the project, ensure you have Python installed. Follow the steps below to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sms-spam-classifier.git
+    https://github.com/Jeetkavaiya/SMS-Spam-Classifier.git
     cd sms-spam-classifier
     ```
 
@@ -62,38 +62,14 @@ To run the project, ensure you have Python installed. Follow the steps below to 
     ```bash
     pip install -r requirements.txt
     ```
-
-## Usage
-Follow these steps to use the SMS spam classifier:
-
-1. Preprocess the data:
-    ```python
-    python preprocess.py
-    ```
-
-2. Train the model:
-    ```python
-    python train.py
-    ```
-
-3. Evaluate the model:
-    ```python
-    python evaluate.py
-    ```
-
-4. Predict the class of a new SMS message:
-    ```python
-    python predict.py --message "Your message here"
-    ```
-
 ## Dataset
-The dataset used in this project consists of labeled SMS messages indicating whether each message is spam or not. You can download the dataset from [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection).
+The dataset used in this project consists of labeled SMS messages indicating whether each message is spam or not. You can download the dataset from [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Model
 The classifier uses machine learning models such as Naive Bayes, Support Vector Machines, or any other suitable algorithm. The `train.py` script handles the training process.
 
 ## Results
-After training, the model is evaluated using various metrics like accuracy, precision, recall, and F1-score. The results are displayed in the console and saved in the `results` directory.
+After training, the model is evaluated using various metrics like accuracy, precision, recall, and F1-score.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
@@ -104,11 +80,8 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) for the SMS Spam Collection dataset.
-- The contributors who helped in improving this project.
+- [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) for the SMS Spam Collection dataset.
 
 
