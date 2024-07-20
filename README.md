@@ -11,6 +11,7 @@ This project is an SMS spam classifier built using machine learning techniques. 
 - [Results](#results)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+- [Screenshots](#screenshots)
 
 ## Introduction
 The SMS Spam Classifier project aims to help identify and filter out spam messages from legitimate ones using natural language processing (NLP) and machine learning. The project uses a dataset of labeled SMS messages to train a model that can predict the likelihood of a message being spam.
@@ -59,8 +60,13 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-
 ## Acknowledgements
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for the SMS Spam Collection dataset.
+
+## Screenshots
+![chrome_1Oeg9JaHCE](https://github.com/user-attachments/assets/a67ea25e-b12a-4072-b3cc-56c4cf205a90)
+![chrome_uzMKgQS0nv](https://github.com/user-attachments/assets/986dee1c-41b0-4534-bc67-7b6afe5d07c6)
+
+
 
 
